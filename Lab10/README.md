@@ -1,0 +1,1 @@
+This C program is a multithreaded, encrypted contact manager that stores people in three age-based doubly linked lists, uses an XOR key to encrypt and decrypt text file I/O, periodically autosaves records to a binary file in a background thread, and provides a menu to add, list, search by age, update ages, and remove contacts.
