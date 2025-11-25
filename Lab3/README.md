@@ -1,0 +1,1 @@
+This C program manages an in-memory “spreadsheet” of up to 10 people using a struct person array, letting the user (via a menu) add people while keeping the list sorted alphabetically by last name, prevent duplicates, list all entries, search by age, and remove a selected person.
