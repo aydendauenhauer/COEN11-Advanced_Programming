@@ -1,2 +1,2 @@
 # COEN11-Advanced_Programming
-University lab projects for COEN 11 - Advanced Programming.
+COEN 11 – Advanced Programming lab in C focusing on understanding C language.
