@@ -1,0 +1,1 @@
+This C program manages a contact list split into three age-based linked lists, loading and saving records in a binary file, and through a menu lets the user add non-duplicate people, list everyone, search by age, remove entries, change ages, and free all nodes on exit.
