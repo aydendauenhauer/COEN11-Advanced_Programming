@@ -1,0 +1,1 @@
+This C program is a multithreaded, age-partitioned contact manager that uses doubly linked lists and mutexes to safely add, list, search, update, and delete people while periodically autosaving to a binary file and supporting manual load/save from text and binary files via a menu interface.
