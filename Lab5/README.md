@@ -1,0 +1,1 @@
+This C program manages a dynamic list of people using a singly linked list, letting the user add non-duplicate entries, list everyone, search for people by age, and remove a person by name through a simple text menu.
