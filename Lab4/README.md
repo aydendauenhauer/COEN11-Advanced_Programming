@@ -1,0 +1,1 @@
+This C program manages an in-memory list of up to 10 people using a struct with a union to store age-specific info (school, salary, or years retired), letting the user add non-duplicate entries sorted by last name, list everyone with their extra info, search by age, and remove people either by name or by age through a simple text menu.
