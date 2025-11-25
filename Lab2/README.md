@@ -1,0 +1,1 @@
+This C program maintains a small in-memory list of up to 10 people’s first names, last names, and ages, allowing the user (via a text menu) to add a person while avoiding duplicates, list all stored people, or show only those who match a given age (note: the “oldest to newest” option currently just prints entries in the order they were added, without sorting by age).
