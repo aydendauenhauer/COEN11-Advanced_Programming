@@ -1,0 +1,1 @@
+This C program uses age-based doubly linked lists and pthreads to manage a contact list, with a background thread that periodically autosaves to a binary file, while a menu lets the user add non-duplicate people, list and search by age, remove or update entries, view the list in multiple ways, and finally save everything to a text file on exit.
