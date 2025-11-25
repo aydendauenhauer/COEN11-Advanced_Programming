@@ -1,0 +1,1 @@
+This C program is a simple division quiz that asks the user 10 randomly generated questions of the form “z / x = ?” and keeps track of how many answers are correct. At the end, it prints the user’s total score.
